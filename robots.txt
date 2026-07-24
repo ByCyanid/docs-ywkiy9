@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-bzrvk0.solokkhz.com/sitemap.xml
